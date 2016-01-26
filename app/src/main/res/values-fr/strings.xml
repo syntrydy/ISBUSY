@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IsBusy</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_author">Apropos</string>
+    <string name="title_activity_message_settings">Configuration</string>
+    <string name="defaultSmsMessage">Votre message sera lu des que possible, le proprietaire du telephone est occupe</string>
+    <string name="defaultCallMessage">Votre appel est en cours d etude et sera validee des que possible</string>
+    <string name="author"><b>Developpee par </b><i>Gasmyr Mougang.</i></string>
+    <string name="authorDescription">Mougang Thomas Gasmyr Developpeur Java/Mobile (+237)696534361/(+237)672518192 gasmyrmougang@yahoo.fr</string>
+    <string name="author_text">IsBusy est une application pensee et developpee pas GasmyrMougang.
+     Elle vous permet de vous liberez tout en vous concentrant sur votre travail et ceci en permettant à votre telephone
+     de repondre a vos sms et appels quant vous etes occupe.</string>
+    <string name="title_activity_author">Apropos</string>
+    <string name="computeTimme">\@@@ fait a </string>
+    <string name="sim_settings">Votre SIM</string>
+    <string name="simTitle">Information de la SIM</string>
+    <string name="simChoise">Lequel de ces puces dans votre telephone est la premiere?</string>
+    <string name="simButton">Enregistrer</string>
+    <string name="callTitle">Call Setting</string>
+    <string name="title_activity_sim">Carte SIM</string>
+    <string name="callMessageText">Message en cas d appel</string>
+    <string name="smshint">Message a envoyer si une personne vous ecrit</string>
+    <string name="callhint">Message to send if someone make a call</string>
+    <string name="action_doc">Help</string>
+    <string name="documentation">IsBusy purpose is to help you managed your time</string>
+    <string name="saveSettingsInfo">Settings saved with success</string>
+</resources>

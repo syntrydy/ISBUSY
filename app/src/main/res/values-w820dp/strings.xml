@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simTitle">SIM Information</string>
+    <string name="simChoise">Which of this SIM is set in your phone to be the first?</string>
+    <string name="simButton">save setting</string>
+    <string name="callTitle">Call Setting</string>
+    <string name="callMessageText">Set a message for call</string>
+    <string name="action_doc">Help</string>
+    <string name="documentation">IsBusy purpose is to help you managed your time</string>
+    <string name="saveSettingsInfo">Settings saved with success</string>
+</resources>
